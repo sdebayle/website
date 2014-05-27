@@ -9,7 +9,7 @@ group: navigation
 
 We do have several membership levels which imply various levels of participation in the association. Read the [FAQ](../04_faq.html) to know more about how to participate. Send your membership request by fulfilling and sending [this form](https://docs.google.com/forms/d/1uYhoEga_Lc-kUDobRpNP09L4lTHqya51ZlyZPlh31Eg/viewform).
 
-Have a look [here](member_list.html) to have the actual list of member.
+Have a look [here](member_list.html) to have the actual list of members.
 
 ## Categories
 
@@ -17,18 +17,18 @@ There are three categories of individual affiliation with the OCA: Participant, 
 
 ### Participant
 
-The broadest category, that of Participant, is for those who are not formally registered on the OCA website but who nonetheless contribute code, help out by giving opinion, follow the various mailing lists, ... Anyone can be a Participant.
+The broadest category, that of Participant, is for those who are not formally registered on the OCA website but who nonetheless contribute to the code, help out by giving opinion, follow the various mailing lists, etc. Anyone can be a Participant.
 
 ### Member
 
-The second category is called Member. Individuals in this category have the same level of rights to work on OCA activities as the Participant category, but with the important distinction that these individuals are member of the OCA, they pay their contributions. 
-By being a member, an individual is "opting in" and publicly acknowledging their connection to the OCA. This membership process also provides the OCA with a known, countable membership base. For example, the Board or various Committees may, from time to time, wish to poll the all Members on some important issue.
+The second category is called Member. Individuals in this category have the same level of rights to work on OCA activities as the Participant category, but with one important distinction: they pay their contributions to the OCA. 
+By being a Member, an individual is "opting in" and publicly acknowledging their connection to the OCA. This membership process also provides the OCA with a known, countable membership base. For example, the Board or various Committees may, from time to time, wish to poll all the Members on some important issues.
 
 ### Charter Member
 
-The third category is Charter Member. Individuals in this category have the same rights as the above Member category, but with two important differences. Firstly, individuals in this category are not self-selected, but rather must be voted into this category by the other Charter Members. Secondly, individuals in this category have the right to vote in elections for other Charter Members, and for Board Members.
+The third category is Charter Member. Individuals in this category have the same rights as the above Member category, but with two important differences. Firstly, individuals in this category are not self-selected, but rather must be voted into this category by the other Charter Members. Secondly, individuals in this category have the right to vote in the elections of other Charter Members, and for Board Members.
 
-*These two factors are intended to maintain the integrity of the Foundation election processes -- and by extension the integrity of the Foundation itself. We use the term "Charter" Member to explicitly indicate that these members are responsible for upholding the "charter" of the Foundation.*
+*These two factors are intended to maintain the integrity of the Foundation election processes -- and, by extension, the integrity of the Foundation itself. We use the term "Charter" Member to explicitly indicate that these members are responsible for upholding the "charter" of the Foundation.*
 
 *Without the Charter Member category to serve as a basis for the Board election process, it would be technically possible for a group of self-interested Members to "hijack" the Board and hence the Foundation itself, turning it away from our basic goals and principles.*
 
