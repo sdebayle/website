@@ -22,7 +22,7 @@ The broadest category, that of Participant, is for those who are not formally re
 ### Member
 
 The second category is called Member. Individuals in this category have the same level of rights to work on OCA activities as the Participant category, but with one important distinction: they pay their contributions to the OCA. 
-By being a Member, an individual is "opting in" and publicly acknowledging their connection to the OCA. This membership process also provides the OCA with a known, countable membership base. For example, the Board or various Committees may, from time to time, wish to poll all the Members on some important issues.
+By being a Member, an individual is "opting in" and publicly acknowledging its connection to the OCA. This membership process also provides the OCA with a known, countable membership base. For example, the Board or various Committees may, from time to time, wish to poll all the Members on some important issues.
 
 ### Charter Member
 
